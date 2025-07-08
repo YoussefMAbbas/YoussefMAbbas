@@ -1,15 +1,17 @@
 <div align="center">
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FNCRHhqkXrJYAAAAj%2Fprogrammers-go-internet.gif&f=1&nofb=1&ipt=55d092dfa5ca1a35c080eaa64b4644e919fc61c8607f92f5bc7911f662a0499f" alt="me_coding :)" style="width:80px;"/>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FNCRHhqkXrJYAAAAj%2Fprogrammers-go-internet.gif&f=1&nofb=1&ipt=55d092dfa5ca1a35c080eaa64b4644e919fc61c8607f92f5bc7911f662a0499f" alt="me_coding :)" style="width:100px;"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=800&size=30&letterSpacing=2px&duration=2000&pause=2000&color=6F78FF&center=true&vCenter=true&width=500&lines=Youssef+Mohamed+Abbas)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=800&size=40&letterSpacing=2px&duration=2000&pause=2000&color=ffffff&center=true&vCenter=true&width=600&lines=Youssef+Mohamed+Abbas)
 
-## **A passionate (Software Developer/Web Developer/Game Developer) From Egypt**
+## **A passionate (Software/Web/Game) Developer From Egypt**
 
-## 🌟 A little About Me
+### 🌟 A little About Me 🌟
 
+<div align="left">
 I'm an indie developer passionate about crafting robust and efficient solutions from the ground up. With expertise in C, Zig, Assembly x86, alongside web technologies like HTML, CSS, JavaScript, Svelte and , I build projects that is fun and useful for real world problems and secure. My proficiency in Git, Linux, BSD, and Bash/POSIX shell, Lua scripting for automation that fuels my ability to streamline development workflows and create reliable systems. Using Linux as my Daily OS. Every project is a journey—from ideation and design to delivering code that performs.
-
+</div>
+<br>
    <p align="center">
       <a href="https://github.com/YoussefMAbbas?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/YoussefMAbbas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
@@ -19,7 +21,9 @@ I'm an indie developer passionate about crafting robust and efficient solutions 
 
 ---
 
-### ⚒️ Languages ⚒️
+### ⚒️ Languages
+
+<br>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
@@ -30,13 +34,21 @@ I'm an indie developer passionate about crafting robust and efficient solutions 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
 
-### 📜 Scripting 📜
+<br>
+
+### 📜 Scripting
+
+<br>
 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Typst](https://img.shields.io/badge/typst-239DAD.svg?style=for-the-badge&logo=typst&logoColor=white)
 
-### 🧰 Tools 🧰
+<br>
+
+### 🧰 Tools
+
+<br>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
@@ -46,20 +58,28 @@ I'm an indie developer passionate about crafting robust and efficient solutions 
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
-### 💬 Socials 💬
+<br>
+
+### 💬 Socials
+
+<br>
 
 <a href="https://discordapp.com/users/838922079540609026">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 <a href="https://eg.linkedin.com/in/youssefmabbas">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:youssefabbasofficial@protonmail.com">![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)</a>
 
-### 🫙 Others 🫙
+<br>
+
+### 🫙 Others
+
+<br>
 
 <a href="https://leetcode.com/u/Youssef_Abbas/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 
 ---
 
-### 📊 Stats 📊
+### 📊 Stats
 
 #### LeetCode Stats
 
