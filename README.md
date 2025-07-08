@@ -55,8 +55,8 @@ ___
 
 ### 📊 Stats
 
-#### LeetCode stats
+#### LeetCode Stats
 ![Youssef's LeetCode Stats](https://leetcard.jacoblin.cool/Youssef_Abbas?theme=light&font=Noto%20Sans&ext=activity)
 
-#### GitHub stats
+#### GitHub Stats
 ![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoussefMAbbas&theme=light&show_icons=true&hide_border=true&count_private=true)
