@@ -4,7 +4,7 @@
 
 I'm an indie full-stack developer passionate about crafting robust and efficient solutions from the ground up. With expertise in C, Zig, Assembly x86, alongside web technologies like HTML, CSS, JavaScript, Svelte and , I build projects that is fun and useful for real world problems and secure. My proficiency in Git, Linux, BSD, and Bash/POSIX shell, Lua scripting for automation that fuels my ability to streamline development workflows and create reliable systems. Using Linux as my Daily OS. Every project is a journey—from ideation and design to delivering code that performs.
 
-   <p align="left">
+   <p align="center">
       <a href="https://github.com/YoussefMAbbas?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/YoussefMAbbas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/YoussefMAbbas?tab=repositories&sort=stargazers">
