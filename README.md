@@ -42,7 +42,7 @@ I'm an indie full-stack developer passionate about crafting robust and efficient
 
 ### 💬 Socials
 
-<a href="discordapp.com/users/838922079540609026">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
+<a href="https://discordapp.com/users/838922079540609026">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 <a href="https://eg.linkedin.com/in/youssefmabbas">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:youssefabbasofficial@protonmail.com">![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)</a>
 
