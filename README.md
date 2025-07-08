@@ -1,4 +1,4 @@
-# <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FNCRHhqkXrJYAAAAj%2Fprogrammers-go-internet.gif&f=1&nofb=1&ipt=55d092dfa5ca1a35c080eaa64b4644e919fc61c8607f92f5bc7911f662a0499f" alt="me_coding :)" style="width:50px;"/> Youssef Mohamed Abbas
+# <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FNCRHhqkXrJYAAAAj%2Fprogrammers-go-internet.gif&f=1&nofb=1&ipt=55d092dfa5ca1a35c080eaa64b4644e919fc61c8607f92f5bc7911f662a0499f" alt="me_coding :)" style="width:60px;"/> Youssef Mohamed Abbas
 
 ## **`About me (Software Developer/Web Developer/Game Developer)`**
 
