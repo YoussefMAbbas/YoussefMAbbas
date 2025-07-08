@@ -1,6 +1,6 @@
-# <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FNCRHhqkXrJYAAAAj%2Fprogrammers-go-internet.gif&f=1&nofb=1&ipt=55d092dfa5ca1a35c080eaa64b4644e919fc61c8607f92f5bc7911f662a0499f" alt="me_coding :)" style="width:80px;"/> Youssef Mohamed Abbas
+# <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FNCRHhqkXrJYAAAAj%2Fprogrammers-go-internet.gif&f=1&nofb=1&ipt=55d092dfa5ca1a35c080eaa64b4644e919fc61c8607f92f5bc7911f662a0499f" alt="me_coding :)" style="width:50px;"/> Youssef Mohamed Abbas
 
-## **`About me (Software Engineer/Web Developer/Game Developer)`**
+## **`About me (Software Developer/Web Developer/Game Developer)`**
 
 I'm an indie full-stack developer passionate about crafting robust and efficient solutions from the ground up. With expertise in C, Zig, Assembly x86, alongside web technologies like HTML, CSS, JavaScript, Svelte and , I build projects that is fun and useful for real world problems and secure. My proficiency in Git, Linux, BSD, and Bash/POSIX shell, Lua scripting for automation that fuels my ability to streamline development workflows and create reliable systems. Using Linux as my Daily OS. Every project is a journey—from ideation and design to delivering code that performs.
 
