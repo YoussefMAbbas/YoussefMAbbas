@@ -2,7 +2,7 @@
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FNCRHhqkXrJYAAAAj%2Fprogrammers-go-internet.gif&f=1&nofb=1&ipt=55d092dfa5ca1a35c080eaa64b4644e919fc61c8607f92f5bc7911f662a0499f" alt="me_coding :)" style="width:100px;"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=800&size=40&letterSpacing=2px&duration=2000&pause=2000&color=ffffff&center=true&vCenter=true&width=600&lines=Youssef+Mohamed+Abbas)
+![Youssef Mohamed Abbas](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=800&size=40&letterSpacing=2px&duration=2000&pause=2000&color=7072ff&center=true&vCenter=true&width=600&lines=Youssef+Mohamed+Abbas)
 
 #### 📫 How to reach me **youssefabbasofficial@protonmail.com**
 
@@ -34,7 +34,7 @@ I'm an indie developer passionate about crafting robust and efficient solutions 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
 
-### 📜 Scripting
+### 📜 Scripts
 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
@@ -76,7 +76,7 @@ I'm an indie developer passionate about crafting robust and efficient solutions 
   </tr>
 </table>
 
-### 🔝 Top Contributed Repo
+### 🏆 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=YoussefMAbbas&limit=5&theme=dark&combine_all_yearly_contributions=true)
 [![](https://visitcount.itsvg.in/api?id=itsactuallyosef&icon=8&color=13)](https://visitcount.itsvg.in)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMAbbas&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
