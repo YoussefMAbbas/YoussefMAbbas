@@ -4,6 +4,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=800&size=40&letterSpacing=2px&duration=2000&pause=2000&color=ffffff&center=true&vCenter=true&width=600&lines=Youssef+Mohamed+Abbas)
 
+#### 📫 How to reach me **youssefabbasofficial@protonmail.com**
+
 ## **A passionate (Software/Web/Game) Developer From Egypt**
 
 ### 🌟 A little About Me 🌟
@@ -63,12 +65,20 @@ I'm an indie developer passionate about crafting robust and efficient solutions 
 
 ### 📊 Stats
 
-#### LeetCode Stats
+<table>
+  <tr>
+    <td><img src="https://leetcard.jacoblin.cool/Youssef_Abbas?theme=dark&font=Noto%20Sans&ext=activity" width="500"></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=YoussefMAbbas&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+      <br/>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=YoussefMAbbas&theme=dark&hide_border=true"/>
+    </td>
+  </tr>
+</table>
 
-![Youssef's LeetCode Stats](https://leetcard.jacoblin.cool/Youssef_Abbas?theme=light&font=Noto%20Sans&ext=activity)
-
-#### GitHub Stats
-
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefMAbbas&theme=light&show_icons=true&hide_border=true&count_private=true)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=YoussefMAbbas&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![](https://visitcount.itsvg.in/api?id=itsactuallyosef&icon=8&color=13)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMAbbas&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
