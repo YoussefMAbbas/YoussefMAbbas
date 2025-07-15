@@ -4,7 +4,7 @@
 
 ![Youssef Mohamed Abbas](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=800&size=40&letterSpacing=2px&duration=2000&pause=2000&color=7072ff&center=true&vCenter=true&width=600&lines=Youssef+Mohamed+Abbas)
 
-#### 📫 How to reach me **youssefabbasofficial@protonmail.com**
+#### 📫 How to reach me **youssefmabbasofficial@proton.me**
 
 ## **A passionate (Software/Web/Game) Developer From Egypt**
 
@@ -54,7 +54,7 @@ I'm an indie developer passionate about crafting robust and efficient solutions 
 
 <a href="https://discordapp.com/users/838922079540609026">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 <a href="https://eg.linkedin.com/in/youssefmabbas">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:youssefabbasofficial@protonmail.com">![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)</a>
+<a href="mailto:youssefmabbasofficial@proton.me">![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)</a>
 
 ### 🫙 Others
 
