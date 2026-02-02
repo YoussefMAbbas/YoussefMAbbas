@@ -56,7 +56,7 @@
 ### 💬 Socials
 
 <a href="https://youssefmabbas.medium.com/">![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)</a>
-<a href="https://eg.linkedin.com/in/youssefmabbas">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+   <a href="https://www.linkedin.com/in/youssefmabbas/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:youssefmabbasofficial@proton.me">![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)</a>
 
 
