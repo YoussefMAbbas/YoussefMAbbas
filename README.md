@@ -44,6 +44,7 @@
 ### 🧰 Tools
 
 ![Splunk](https://img.shields.io/badge/Splunk-orange?style=for-the-badge&logo=splunk)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-blue?style=for-the-badge&logo=elastic)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
