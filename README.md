@@ -17,7 +17,8 @@
 <br>
 <p align="center">
    <a href="https://github.com/YoussefMAbbas?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/YoussefMAbbas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>   
-<a href="https://github.com/YoussefMAbbas?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/YoussefMAbbas?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   <a href="https://github.com/YoussefMAbbas?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/YoussefMAbbas?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   <img alt="Profile View Count" src="https://komarev.com/ghpvc/?username=YoussefMAbbas&style=for-the-badge&color=red&abbreviated=true&label=👁+PROFILE+VIEWS"/>
 </p>
 
 ---
